@@ -1,0 +1,56 @@
+# a=20
+# b=30
+# if b>a :
+# print("B is greater than a ")
+# a=10
+# b=20
+# if b>a :
+# print("B is greater than a ")
+# else("a is greater than B")
+# name = input("Please Enter your Name")
+# print("Your Name Is" +name)
+# purchase_amount = float(input("Please enter 
+your Purchase Amount"))
+# if purchase_amount>50:
+# discount_amount = purchase_amount*0.2;
+# print(f"Discount of 
+${discount_amount:2f}applied")
+# print(f"Total After Discount : 
+${purchase_amount - discount_amount}"
+# else:
+# print("No discount for you"))
+# userInput = float(input("Enter temrature of 
+your area"))
+# if userInput>30:
+# print("Wear Light Clothig")
+# elif 20<=userInput>=30:
+# print("Wear comfty clothing")
+# else:
+# print("Wear warm clothin")
+# balance = float(input("Enter your available 
+money inban amount"))
+# withdraw_amount =float(input("Enter the 
+amount of money you want to withdraw"))
+# if withdraw_amount<=balance:
+# balance - withdraw_amount
+# 
+print(withdraw_amount,"succseessfullctransac
+tions")
+# else:
+# print("Not sufficient Funds")
+# number1 = float(input("Enter first number"))
+# number2 = float(input("Enter second 
+number"))
+# number3 = float(input("Enter third number"))
+# print(number1 + number2 *3)
+# partyList = ['Ali','Ahmed','Moiz']
+# guestName = input("Enter your name")
+# if guestName = partyList. :
+# print("you are allowed to enter")
+# else:
+# print("get out lil bro")
+# if userInput>=1000:
+# print("You get a free item")
+# else:
+# print("get outta here lil homie")
+Shaheer9-B
